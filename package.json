@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "js-priority-queue": "^0.1.5",
+    "nodemailer": "^6.9.3"
+  }
+}
